@@ -1,0 +1,12 @@
+hiredis/Win32/
+testredis/Win32/
+
+*.sdf
+*.suo
+*.dll
+*.exp
+*.ilk
+*.pdb
+*.exe
+*.lib
+*.opensdf
